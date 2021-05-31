@@ -6,3 +6,6 @@ When you clone this project onto your own computer environment and you import it
 
 # Sorry-
 Yeah, I apologize if some of this text that I'm typing doesn't make sense, doing the best i can at explaining the whole process.
+
+# Usage
+When in command-line, you want to type in: ``IGScraperV1.exe <username>``; Where "<username>" is, you would want to replace that with any username that you would like. It's quite simple. :)
